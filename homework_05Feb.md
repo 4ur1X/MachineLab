@@ -2,7 +2,7 @@
 
 ## Theme Idea: NYUAD 4 Year Journey
 
-**Members: Ronit & Liza**
+**By: Ronit & Liza**
 
 We thought of dividing the 4 years of an NYUAD student's life into 4 separate blocks. Each block can be worked upon by 4 groups.
 
