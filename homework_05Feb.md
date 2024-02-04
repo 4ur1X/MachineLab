@@ -27,7 +27,7 @@ Here's some rough sketches I drew for each theme.
 ## Year 3: Study Away & Cultural Immersion
 
 ![Year 3](https://github.com/rs7358/MachineLab/blob/main/pictures/year3.png)
-- It has a carousel that moves side to side in a continuos loop (slow-moving conveyor), showing students exploring various countries and cultures around the globe. We could include tiny models of students arriving with their luggage, watching the carousel, and then moving to the right to disappear from view. There's also a plane attached to a stick, making gentle up and down motions as if it's flying. We could play different sounds based on the culture or country being shown on the carousel. And also maybe include small, detailed replicas of iconic landmarks from cities where NYU has global sites, such as the Statue of Liberty (New York), the Eiffel Tower (Paris), the Sydney Opera House (Sydney), and others.
+- It has a carousel that moves side to side in a continuos loop (slow-moving conveyor), showing students exploring various countries and cultures around the globe. We could include tiny models of students arriving with their luggage, stopping and watching the carousel for some time, and then moving to the right to disappear from view. There's also a plane attached to a stick, making gentle up and down motions as if it's flying. We could play different sounds based on the culture or country being shown on the carousel. And also maybe include small, detailed replicas of iconic landmarks from cities where NYU has global sites, such as the Statue of Liberty (New York), the Eiffel Tower (Paris), the Sydney Opera House (Sydney), and others.
 
 ## Year 4: Graduation, Career & Future
 
