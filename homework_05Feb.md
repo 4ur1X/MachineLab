@@ -32,4 +32,4 @@ Here's some rough sketches I drew for each theme.
 ## Year 4: Graduation, Career & Future
 
 ![Year 4](https://github.com/rs7358/MachineLab/blob/main/pictures/year4.png)
-- The final block will celebrate graduation, set against a background of NYU Diploma. Here we can have graduation caps and confetti continuously 'flying' across the scene.
+- The final block will celebrate graduation, set against a background of NYU Diploma. Here we can have graduation caps and confetti continuously 'flying' across the scene along with some fake fireworks and cheerful sounds.
