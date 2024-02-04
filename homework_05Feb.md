@@ -16,7 +16,7 @@ Here's some rough sketches I drew for each theme.
 ## Year 1: The Beginning
 
 ![Year 1](https://github.com/rs7358/MachineLab/blob/main/pictures/year1.jpg)
-- In the first block, we use the world map as the background and could show acceptance letters floating up from the bottom, kind of like they're bringing good news. At the same time, we can have little planes flying in from all over and gathering over the UAE on a world map. When the planes come to a stop, we'll see a picture of the NYUAD entrance with students arriving with their luggages together, and walking into the campus.
+- In the first block, we use the world map as the background and could show acceptance letters floating up from the bottom, kind of like they're bringing good news. At the same time, we can have little planes (3d printed maybe) flying in from all over and gathering over the UAE on a world map. When the planes come to a stop, we'll see a picture of the NYUAD entrance with students arriving with their luggages together, and walking into the campus.
 - We could also add sound effects, like the noise of airplanes, happy sounds when the acceptance letters appear, and a "Welcome to NYUAD" greeting when the students show up. For materials, we'd mostly use cardboard or wood prints. The parts that move, like the planes flying in different directions or other elements popping in and out, could use servo motors.
 
 ## Year 2: Academics
@@ -27,7 +27,7 @@ Here's some rough sketches I drew for each theme.
 ## Year 3: Study Away & Cultural Immersion
 
 ![Year 3](https://github.com/rs7358/MachineLab/blob/main/pictures/year3.png)
-- It has a carousel that moves side to side in a continuos loop (slow-moving conveyor), showing students exploring various countries and cultures around the globe. We could include tiny models of students arriving with their luggage, stopping and watching the carousel for some time, and then moving to the right to disappear from view. This involves time-based program with some kind of conveyor belt mechanism using a motor. There's also a plane attached to a stick, making gentle up and down motions as if it's flying. We could play different sounds based on the culture or country being shown on the carousel. And also maybe include small, detailed replicas of iconic landmarks from cities where NYU has global sites, such as the Statue of Liberty (New York), the Eiffel Tower (Paris), the Sydney Opera House (Sydney), and others.
+- It has a carousel that moves side to side in a continuos loop (slow-moving conveyor), showing students exploring various countries and cultures around the globe. We could include tiny models of students arriving with their luggage, stopping and watching the carousel for some time, and then moving to the right to disappear from view. This involves time-based program with some kind of conveyor belt mechanism using a motor. There's also a plane (3d printed maybe) attached to a stick, making gentle up and down motions as if it's flying. We could play different sounds based on the culture or country being shown on the carousel. And also maybe include small, detailed replicas of iconic landmarks from cities where NYU has global sites, such as the Statue of Liberty (New York), the Eiffel Tower (Paris), the Sydney Opera House (Sydney), and others.
 
 ## Year 4: Graduation, Career & Future
 
