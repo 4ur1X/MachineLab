@@ -9,5 +9,9 @@ I thought of dividing the 4 years of an NYUAD student's life into 4 separate blo
 - Group 3 (year 3 theme): Study Away & Cultural Immersion
 - Group 4 (year 4 theme): Graduation, Career & Future
 
-Here's come rough sketches I drew for each theme.
+Here's some rough sketches I drew for each theme.
 
+![Year 1](https://github.com/rs7358/MachineLab/blob/main/pictures/year1.jpg)
+![Year 2](https://github.com/rs7358/MachineLab/blob/main/pictures/year2.png)
+![Year 3](https://github.com/rs7358/MachineLab/blob/main/pictures/year3.png)
+![Year 4](https://github.com/rs7358/MachineLab/blob/main/pictures/year4.png)
