@@ -1,6 +1,6 @@
 ## Homework 7th Feb
 
-I'll be working with Liza on the Sky Ride project as part of our class's clock project.
+I'll be working with Liza [link](https://github.com/lizadat/MachineLab/blob/main/homework_07Feb.md) on the Sky Ride project as part of our class's clock project.
 
 Here's a sketch I drew to give us an idea of our planned design:
 
