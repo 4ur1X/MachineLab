@@ -9,10 +9,10 @@ Here's a sketch I drew to give us an idea of our planned design:
 We plan to have one horizontal ropeway (marked as 1) in addition to two intersecting slanted ropeways (marked as 2 and 3). When the slanted ropeways are in operation, the horizontal ropeway will not be, and vice versa.
 
 Materials required:
-- Motor (continuosly rotating)
-- Cardboard
+- Motor (continuously rotating but controlled by a program to start and stop based on the detection of whether the motors of the other slanted ropeways are working, with time-based alternating)
+- Cardboard (for the structure)
+- 3D Printer (for ride)
+- Threads (for rope)
 - Hot glue
 - LEDs
 - Wires
-- Threads
-- 3D Printer
