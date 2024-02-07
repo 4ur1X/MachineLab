@@ -12,7 +12,7 @@ Materials required:
 - Motor (continuously rotating but controlled by a program to start and stop based on the detection of whether the motors of the other slanted ropeways are working, with time-based alternating)
 - Cardboard (for the structure)
 - 3D Printer (for carriage)
-- Threads (for rope)
+- Threads (for ropeway cables)
 - Hot glue
 - LEDs
 - Wires
