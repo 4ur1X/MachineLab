@@ -6,4 +6,4 @@ Here's how the prototype looks at the moment.
 
 ![Design](https://github.com/rs7358/MachineLab/blob/main/pictures/20240211_190446.jpeg)
 
-I encountered some challenges, such as the thread occasionally slipping off the wheel, likely due to uneven cutting of the cardboard and using thick thread. Also, the cable car swings a lot sometimes, probably because it’s lightweight and the cable car hanger is not robust. Going forward, my goal is to refine the design of the cable car and its supports to prevent swinging and ensure they don’t hit the pillars at the ends. This will involve trial and error to determine the most suitable design.
+I encountered some challenges, such as the thread occasionally slipping off the wheel, likely due to uneven cutting of the cardboard and using thick thread. Also, the cable car swings a lot sometimes, probably because it’s lightweight and the cable car hanger is not strong enough. Going forward, my goal is to refine the design of the cable car and its supports to prevent swinging and ensure they don’t hit the pillars at the ends. This will involve trial and error to determine the most suitable design.
