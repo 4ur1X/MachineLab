@@ -4,6 +4,8 @@ I successfully got the pulleys to turn, which moves the cablecar now. On the lef
 
 ![](https://vimeo.com/916624809?share=copy)
 
+https://vimeo.com/916624809?share=copy
+
 ### What will I get done for next week?
 
 Next, I plan to focus on the cablecar, designing it such that it can go around smoothly along the wire and also around the wheel without any obstruction. Once it's done, I'll 3D print it. Also, I'll take the final measurements for the pillars and make the metal (aluminum) versions.
